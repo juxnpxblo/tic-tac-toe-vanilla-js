@@ -1,2 +1,5 @@
-# tic-tac-toe-vanilla-js
-Simple tic-tac-toe game built with pure vanilla JS
+# Tic-Tac-Toe
+
+> Simple Tic-Tac-Toe game built with pure vanilla JS
+
+> See the [Live Preview](https://codepen.io/juxnpxblo/pen/YzrRROo)
